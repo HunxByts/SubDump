@@ -1,7 +1,7 @@
 # SubDump
 a tool that functions to find subdomains of a website with the scanning method
 
-<img src="https://github.com/HunxByts/Go-Hash/blob/main/asset/SD.png"/>
+<img src="https://github.com/HunxByts/SubDump/blob/main/asset/SD.png"/>
 
 ### Instalation on Linux (deb)
 ```
